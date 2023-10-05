@@ -1,4 +1,4 @@
-# miscellaneous-puzzles
-Solutions and explorations to various miscellaneous puzzles
+# miscellaneous-work
+Solutions and explorations to random problems
 
 Code written mostly in Python 3.
